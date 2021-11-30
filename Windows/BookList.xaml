@@ -21,7 +21,7 @@
             </StackPanel>
         </Grid>
 
-        <ListView Grid.Row="1" HorizontalAlignment="Left" ScrollViewer.HorizontalScrollBarVisibility="Disabled" x:Name="DataListBooks">
+        <ListView Grid.Row="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled" x:Name="DataListBooks">
             <ListView.ItemsPanel>
                 <ItemsPanelTemplate>
                     <WrapPanel>
@@ -31,15 +31,15 @@
             </ListView.ItemsPanel>
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <Border>
-                        <Grid Width="200" Height="200">
+                    <Border BorderBrush="Aqua" BorderThickness="1" Padding="5">
+                        <Grid Width="200" Height="100">
                             <Grid.RowDefinitions>
                                 <RowDefinition></RowDefinition>
                                 <RowDefinition></RowDefinition>
                                 <RowDefinition></RowDefinition>
                             </Grid.RowDefinitions>
                             <TextBlock Grid.Row="0" FontWeight="Bold" FontSize="15" HorizontalAlignment="Center" Text="{Binding Name}"></TextBlock>
-                            <TextBlock Grid.Row="1" HorizontalAlignment="Center" Text="{Binding Descripion}"></TextBlock>
+                            <TextBlock Grid.Row="1" HorizontalAlignment="Center" Text="{Binding Description}"></TextBlock>
                             <TextBlock Grid.Row="2" HorizontalAlignment="Right" Text="{Binding ViewAmount}"></TextBlock>
                         </Grid>
                     </Border>

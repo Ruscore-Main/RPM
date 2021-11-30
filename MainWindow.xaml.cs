@@ -31,5 +31,40 @@ namespace RPM_practice
             this.Hide();
             bookList.Show();
         }
+
+        private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            string selection = Convert.ToString(CmbBackgroundColor.SelectedItem);
+            SolidColorBrush backgroundColor = this.TryFindResource("BackgroundColor") as SolidColorBrush;
+            switch (selection)
+            {
+                case "Светлый":
+                    {
+                        backgroundColor.Color = Colors.White;
+                        break;
+                    }
+                case "Темный":
+                    {
+                        backgroundColor.Color = Colors.DarkGray;
+                        break;
+                    }
+                case "Красочный":
+                    {
+                        backgroundColor.Color = Colors.OrangeRed;
+                        break;
+                    }
+            }
+        }
+
+        private void FeedBack_Click(object sender, RoutedEventArgs e)
+        {
+            Windows.FeedBack feedBack = new Windows.FeedBack();
+            feedBack.Show();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("3D моделька логотипа");
+        }
     }
 }

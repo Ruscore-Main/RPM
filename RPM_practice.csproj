@@ -166,13 +166,6 @@
     <Resource Include="logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="BoolBD.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="BoolBD_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>BoolBD.mdf</DependentUpon>
-    </Content>
     <Content Include="Model.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Model.Context.cs</LastGenOutput>

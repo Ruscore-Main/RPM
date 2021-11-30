@@ -14,7 +14,6 @@ namespace RPM_practice
     
     public partial class Book
     {
-
         public string ViewAmount
         {
             get

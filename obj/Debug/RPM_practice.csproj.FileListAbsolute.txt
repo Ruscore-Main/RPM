@@ -27,3 +27,28 @@ C:\Users\Ruslan\source\repos\RPM_practice\RPM_practice\obj\Debug\App.baml
 C:\Users\Ruslan\source\repos\RPM_practice\RPM_practice\obj\Debug\Windows\BookList.baml
 C:\Users\Ruslan\source\repos\RPM_practice\RPM_practice\obj\Debug\Windows\FeedBack.baml
 C:\Users\Ruslan\source\repos\RPM_practice\RPM_practice\obj\Debug\RPM_practice.csproj.CopyComplete
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\bin\Debug\RPM_practice.exe.config
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\bin\Debug\RPM_practice.exe
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\bin\Debug\RPM_practice.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\bin\Debug\EntityFramework.xml
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice.csprojAssemblyReference.cache
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\MainWindow.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\Windows\BookList.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\Windows\FeedBack.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\App.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice_Content.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice_MarkupCompile.cache
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice_MarkupCompile.lref
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\App.baml
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\MainWindow.baml
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\Windows\BookList.baml
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\Windows\FeedBack.baml
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice.g.resources
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice.Properties.Resources.resources
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice.csproj.GenerateResource.cache
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice.csproj.CoreCompileInputs.cache
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice.csproj.CopyComplete
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice.exe
+C:\Users\oobit\OneDrive\Рабочий стол\RPM\RPM\obj\Debug\RPM_practice.pdb

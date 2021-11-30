@@ -8,8 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("boolbd.mdf")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("boolbd_log.ldf")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model.context.tt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model.edmx.sql")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model.tt")]
